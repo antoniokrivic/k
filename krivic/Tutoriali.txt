@@ -1,0 +1,12 @@
+Command line menu:
+https://www.youtube.com/watch?v=gSD5eY_AzpM
+
+Različiti dizajnovi sučelja.
+ODabrati jedan, proučiti i implementirati da se ispiše domah na početku i pospajati funkcije iz main()-a u switch case.
+
+Blog tutorial:
+https://ladvien.com/command-line-menu-c/
+https://ecomputernotes.com/what-is-c/control-structures/c-program-for-a-menu-driven-program
+https://practice-programming.blogspot.com/2013/08/simple-menu-driven-program-in-c.html
+http://www.msrblog.com/c/programs/misc/menu-driven-program.html
+https://www.studytonight.com/c/programs/misc/menu-driven-program

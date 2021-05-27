@@ -1,0 +1,24 @@
+﻿  funkcije.h
+C:\Users\student\Desktop\krivic\funkcije.h(104,17): warning C4101: 'root2': unreferenced local variable
+C:\Users\student\Desktop\krivic\funkcije.h(104,34): warning C4101: 'imagPart': unreferenced local variable
+C:\Users\student\Desktop\krivic\funkcije.h(104,24): warning C4101: 'realPart': unreferenced local variable
+C:\Users\student\Desktop\krivic\funkcije.h(104,10): warning C4101: 'root1': unreferenced local variable
+C:\Users\student\Desktop\krivic\funkcije.h(130,16): error C2833: 'operator ;' is not a recognized operator or type
+C:\Users\student\Desktop\krivic\funkcije.h(130,16): error C2059: syntax error: 'newline'
+C:\Users\student\Desktop\krivic\funkcije.h(132,24): error C2833: 'operator )' is not a recognized operator or type
+C:\Users\student\Desktop\krivic\funkcije.h(132,24): error C2059: syntax error: 'newline'
+C:\Users\student\Desktop\krivic\funkcije.h(136,19): error C2833: 'operator )' is not a recognized operator or type
+C:\Users\student\Desktop\krivic\funkcije.h(136,19): error C2059: syntax error: 'newline'
+C:\Users\student\Desktop\krivic\funkcije.h(137,3): error C2143: syntax error: missing ';' before '{'
+C:\Users\student\Desktop\krivic\funkcije.h(138,3): error C2046: illegal case
+C:\Users\student\Desktop\krivic\funkcije.h(142,3): error C2046: illegal case
+C:\Users\student\Desktop\krivic\funkcije.h(146,3): error C2046: illegal case
+C:\Users\student\Desktop\krivic\funkcije.h(150,3): error C2046: illegal case
+C:\Users\student\Desktop\krivic\funkcije.h(155,3): error C2047: illegal default
+C:\Users\student\Desktop\krivic\funkcije.h(140,4): error C2043: illegal break
+C:\Users\student\Desktop\krivic\funkcije.h(144,4): error C2043: illegal break
+C:\Users\student\Desktop\krivic\funkcije.h(148,4): error C2043: illegal break
+C:\Users\student\Desktop\krivic\funkcije.h(152,4): error C2043: illegal break
+C:\Users\student\Desktop\krivic\funkcije.h(185,6): error C2143: syntax error: missing ';' before 'break'
+C:\Users\student\Desktop\krivic\funkcije.h(199,10): error C2146: syntax error: missing ';' before identifier 'getchar'
+C:\Users\student\Desktop\krivic\funkcije.h(204,3): error C2059: syntax error: '}'
